@@ -65,8 +65,10 @@
 - Buổi 08 (18/11): Ôn tập.
     - Ôn tập lại vài kiến thức khó trong học phần Basic.
     - Làm bài tập 2.C25 trên Web FHD.
-- Buổi 09 (25/11): Chủ đề mở rộng - Đệ quy.
+- Buổi 10 (25/11): Chủ đề mở rộng - Đệ quy.
     - Bài 1.14: Đệ quy.
+- Buổi 11 (28/11): Lớp và đối tượng.
+    - Bài 2.2: Lớp và đối tượng.
 
 ## 4.2. Hướng đối tượng ([LINK](https://www.notion.so/2-Object-Oriented-Programming-171e3c27ef378101b8e2f70029abf2e0))
 
