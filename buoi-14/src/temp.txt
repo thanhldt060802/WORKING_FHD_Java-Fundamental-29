@@ -1,0 +1,13 @@
+{
+    {
+        {
+			System.out.println("Person(String) constructor is called!");
+			this.id = id;
+		}
+		System.out.println("Student_A1() constructor is called!");
+	}
+    System.out.println("Student_A1(double, double, double) constructor is called!");
+	this.mathScores = mathScores;
+	this.physicsScores = physicsScores;
+	this.englishScores = englishScores;
+}
