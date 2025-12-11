@@ -64,7 +64,7 @@
     - Bài 1.13: Đa tham số trong phương thức.
 - Buổi 08 (18/11): Ôn tập.
     - Ôn tập lại vài kiến thức khó trong chương Cơ bản.
-    - Bài tập 2.C25 trên Web FHD.
+    - Bài tập 2.C25 [Web FHD]: Dãy con tối thiểu có tổng ≥ \`target\` (mảng số dương).
 - Buổi 10 (25/11): Phương pháp đệ quy.
     - Bài 1.14: Đệ quy.
 
@@ -76,7 +76,7 @@
     - Bài 2.2: Lớp và đối tượng (tt).
     - Bài 2.3: Tính chất đóng gói trong OOP.
 - Buổi 13 (04/12): Ôn tập.
-    - Bài tập 1 trên Notion.
+    - Bài tập 1 [Web Notion]: Toán tam giác.
 - Buổi 14 (09/12): 4 tính chất trong OOP (tt).
     - Bài 2.5: Tính chất kế thừa trong OOP.
 - Buổi 15 (11/12): Mảng động, 4 tính chất trong OOP (tt).
@@ -89,5 +89,5 @@
 
 # 5. Bài tập
 
-- Bài tập trên web ([LINK](https://fullhousedev.com/contest/java29)).
-- Bài tập mở rộng ([LINK](https://www.notion.so/Exercise-171e3c27ef37812a9754fb9190421d82?pvs=21)).
+- Bài tập trên web FHD ([LINK](https://fullhousedev.com/contest/java29)).
+- Bài tập trên web Notion ([LINK](https://www.notion.so/Exercise-171e3c27ef37812a9754fb9190421d82?pvs=21)).
