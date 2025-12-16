@@ -82,6 +82,8 @@
 - Buổi 15 (11/12): Mảng động, 4 tính chất trong OOP (tt).
     - Bài 2.7: Thao tác với cấu trúc danh sách mảng ArrayList.
     - Bài 2.8: Tính chất đa hình trong OOP.
+- Buổi 16 (16/12): 4 tính chất trong OOP (tt).
+    - Bài 2.8: Tính chất đa hình trong OOP (tt).
 
 ## 4.3. Hệ cơ sở dữ liệu ([LINK](https://local-tip-3d2.notion.site/3-MySQL-171e3c27ef378118ac83f81899b68d53?pvs=74))
 
