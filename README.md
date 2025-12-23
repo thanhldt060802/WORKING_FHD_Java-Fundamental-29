@@ -85,8 +85,10 @@
 - Buổi 16 (16/12): 4 tính chất trong OOP (tt).
     - Bài 2.8: Tính chất đa hình trong OOP (tt).
 - Buổi 17 (18/12): Ôn tập.
-    - Bài tập 08 (Web Notion): Xây dựng mô hình lớp quản lý nhân viên cho công ty.
-    - Bài tập 10 (Web Notion): Quản lý nhân viên cho nhà hàng.
+    - Bài tập 08 (Web Notion): Xây dựng mô hình lớp quản lý nhân viên.
+    - Bài tập 09 (Web Notion): Quản lý nhân viên.
+- Buổi 18 (23/12): Ôn tập (tt).
+    - Bài tập 09 (Web Notion): Quản lý nhân viên (tt).
 
 ## 4.3. Hệ cơ sở dữ liệu ([LINK](https://local-tip-3d2.notion.site/3-MySQL-171e3c27ef378118ac83f81899b68d53?pvs=74))
 
