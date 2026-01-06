@@ -92,6 +92,8 @@
 - Buổi 20 (30/12): 4 tính chất trong OOP (tt), Interface trong Java.
     - Bài 2.11: Tính chất trừu tượng trong OOP (tt).
     - Bài 2.12: Interface trong Java.
+- Buổi 22 (06/01): Interface trong Java (tt).
+    - Bài 2.12: Interface trong Java (tt).
 
 
 ## 4.3. Hệ cơ sở dữ liệu ([LINK](https://local-tip-3d2.notion.site/3-MySQL-171e3c27ef378118ac83f81899b68d53?pvs=74))
