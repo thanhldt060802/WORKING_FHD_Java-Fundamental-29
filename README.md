@@ -97,6 +97,8 @@
     - Bài 2.13: Sắp xếp đối tượng sử dụng Comparable interface và Comparator interface.
 - Buổi 23 (08/01): Xử lý ngoại lệ.
     - Bài 2.14: Xử lý ngoại lệ.
+- Buổi 24 (13/01): Xử lý tệp văn bản.
+    - Bài 2.15: Xử lý tệp văn bản.
 
 
 ## 4.3. Hệ cơ sở dữ liệu ([LINK](https://local-tip-3d2.notion.site/3-MySQL-171e3c27ef378118ac83f81899b68d53?pvs=74))
