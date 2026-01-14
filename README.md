@@ -97,7 +97,7 @@
     - Bài 2.13: Sắp xếp đối tượng sử dụng Comparable interface và Comparator interface.
 - Buổi 23 (08/01): Xử lý ngoại lệ.
     - Bài 2.14: Xử lý ngoại lệ.
-- Buổi 24 (13/01): Xử lý tệp văn bản.
+- Buổi 24 (13/01): Xử lý tệp.
     - Bài 2.15: Xử lý tệp văn bản.
 
 
