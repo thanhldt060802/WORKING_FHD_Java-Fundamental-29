@@ -72,24 +72,24 @@
 
 - Buổi 11 (28/11): Làm quen với OOP (p1).
     - Bài 2.2: Lớp và đối tượng (p1).
-- Buổi 12 (02/12): Làm quen với OOP (p2), 4 tính chất trong OOP (p1).
+- Buổi 12 (02/12): Làm quen với OOP (p2), Bốn tính chất trong OOP (p1).
     - Bài 2.2: Lớp và đối tượng (p2).
     - Bài 2.5: Tính chất đóng gói trong OOP - Encapsulation.
 - Buổi 13 (04/12): Ôn tập.
     - Bài tập 01 (Web Notion): Toán tam giác.
-- Buổi 14 (09/12): 4 tính chất trong OOP (p2).
+- Buổi 14 (09/12): Bốn tính chất trong OOP (p2).
     - Bài 2.6: Tính chất kế thừa trong OOP - Inheritance.
-- Buổi 15 (11/12): Mảng động, 4 tính chất trong OOP (p3).
+- Buổi 15 (11/12): Mảng động, Bốn tính chất trong OOP (p3).
     - Bài 2.3: Thao tác với cấu trúc danh sách mảng ArrayList.
     - Bài 2.8: Tính chất đa hình trong OOP - Polimorphism (p1).
-- Buổi 16 (16/12): 4 tính chất trong OOP (p4).
+- Buổi 16 (16/12): Bốn tính chất trong OOP (p4).
     - Bài 2.8: Tính chất đa hình trong OOP - Polimorphism (p2).
 - Buổi 17 (18/12): Ôn tập.
     - Bài tập 08 (Web Notion): Xây dựng mô hình lớp quản lý nhân viên.
     - Bài tập 09 (Web Notion): Quản lý nhân viên (p1).
 - Buổi 18 (23/12): Ôn tập.
     - Bài tập 09 (Web Notion): Quản lý nhân viên (p2).
-- Buổi 20 (30/12): 4 tính chất trong OOP (p5), Interface (p1).
+- Buổi 20 (30/12): Bốn tính chất trong OOP (p5), Interface (p1).
     - Bài 2.11: Tính chất trừu tượng trong OOP - Abstraction.
     - Bài 2.12: Interface trong Java (p1).
 - Buổi 22 (06/01): Interface (p2).
