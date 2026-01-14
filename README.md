@@ -92,7 +92,7 @@
 - Buổi 20 (30/12): 4 tính chất trong OOP (p5), Interface trong Java (p1).
     - Bài 2.11: Tính chất trừu tượng trong OOP.
     - Bài 2.12: Interface trong Java (p1).
-- Buổi 22 (06/01): Interface trong Java (p2), Sắp xếp đối tượng sử dụng Comparable interface và Comparator interface.
+- Buổi 22 (06/01): Interface trong Java (p2), Dùng Comparable và Comparator trong bài toán sắp xếp.
     - Bài 2.12: Interface trong Java (p2).
     - Bài 2.13: Sắp xếp đối tượng sử dụng Comparable interface và Comparator interface.
 - Buổi 23 (08/01): Xử lý ngoại lệ.
