@@ -99,7 +99,7 @@
     - Bài 2.14: Xử lý ngoại lệ.
 - Buổi 24 (13/01): Thao tác với tệp dữ liệu.
     - Bài 2.15: Xử lý tệp dữ liệu văn bản thô.
-- Buổi 25 (16/01): Thao tác với tệp dữ liệu.
+- Buổi 25 (16/01): Thao tác với tệp dữ liệu (tt).
     - Bài 2.16: Xử lý tệp dữ liệu đối tượng.
 
 
