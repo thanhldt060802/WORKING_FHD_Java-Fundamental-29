@@ -39,7 +39,7 @@
 
 # 4. Nội dung học tập
 
-## 4.1. Cơ bản ([LINK](https://www.notion.so/1-Basic-171e3c27ef3781cd8362ec97e0e94250))
+## 4.1. Cơ bản ([LINK](https://local-tip-3d2.notion.site/1-Basic-2efe3c27ef37801fab6ff01bdacb4b70))
 
 - Buổi 01 (23/10): Làm quen với Java (p1).
     - Bài 1.2: Lệnh in ra màn hình.
@@ -68,7 +68,7 @@
 - Buổi 10 (25/11): Phương pháp đệ quy.
     - Bài 1.14: Đệ quy.
 
-## 4.2. Hướng đối tượng ([LINK](https://www.notion.so/2-Object-Oriented-Programming-171e3c27ef378101b8e2f70029abf2e0))
+## 4.2. Hướng đối tượng ([LINK](https://local-tip-3d2.notion.site/2-Object-Oriented-Programming-2efe3c27ef37805ca0cfd9bea0203de9))
 
 - Buổi 11 (28/11): Làm quen với OOP (p1).
     - Bài 2.2: Lớp và đối tượng (p1).
@@ -105,11 +105,18 @@
     - Bài tập 12 (Web Notion): Máy rút tiền tự động.
 
 
-## 4.3. Hệ cơ sở dữ liệu MySQL ([LINK](https://local-tip-3d2.notion.site/3-MySQL-171e3c27ef378118ac83f81899b68d53?pvs=74))
+## 4.3. Hệ cơ sở dữ liệu MySQL ([LINK](https://local-tip-3d2.notion.site/3-MySQL-2efe3c27ef3780058ee5e0f49526307e))
 
-## 4.4. Tương tác với hệ cơ sở dữ liệu MySQL bằng JDBC ([LINK](https://local-tip-3d2.notion.site/4-Java-MySQL-171e3c27ef37817495d6f57896aa34e7?pvs=74))
+## 4.4. Tương tác với hệ cơ sở dữ liệu MySQL bằng JDBC ([LINK](https://local-tip-3d2.notion.site/4-MySQL-JDBC-2efe3c27ef3780f78364cc1dca338e48))
 
 # 5. Bài tập
 
 - Bài tập trên web FHD ([LINK](https://fullhousedev.com/contest/java29)).
 - Bài tập trên web Notion ([LINK](https://www.notion.so/Exercise-171e3c27ef37812a9754fb9190421d82?pvs=21)).
+
+# 6. Tham khảo mở rộng
+
+- Java Fundamental (Advanced): ([LINK](https://local-tip-3d2.notion.site/Advanced-Skill-2c5e3c27ef3780149859d3f5a0cba2a9?pvs=74)).
+- Data Strutures And Algorithms ([LINK](https://local-tip-3d2.notion.site/Data-Strutures-And-Algorithms-2c5e3c27ef3780ba91a6fce38797ecd9?pvs=73)).
+- Java Desktop App - Swing ([LINK](https://local-tip-3d2.notion.site/Java-Desktop-App-Swing-2c4e3c27ef37801aa865c29759a4ee20?pvs=74)).
+- Java Web App - Servlet ([LINK](https://local-tip-3d2.notion.site/Java-Web-App-Servlet-2c4e3c27ef3780889449cbc60a37dba1?pvs=74)).
