@@ -63,8 +63,8 @@ public class ATM implements AccountManagement, ATMFunction {
 
     public Account searchAccountById(String id) {
         for (int i = 0; i < this.accountList.size(); i++) {
-            if (this.accountList.get(i).getId().equals(id)) {
-                return this.accountList.get(i);
+            if (Account existingAcc : this.accountList) {
+                return existingAcc;
             }
         }
 
@@ -72,10 +72,9 @@ public class ATM implements AccountManagement, ATMFunction {
     }
 
     public void login(String id, String pin) {
-        for (int i = 0; i < this.accountList.size(); i++) {
-            Account foundAcc = this.accountList.get(i);
-            if (foundAcc.getId().equals(id) && foundAcc.getPin().equals(pin)) {
-                this.inUsing = foundAcc;
+        for (Account existingAcc : this.accountList) {
+            if (existingAcc.getId().equals(id) && existingAcc.getPin().equals(pin)) {
+                this.inUsing = existingAcc;
                 System.out.println("Login account success!");
                 return;
             }
