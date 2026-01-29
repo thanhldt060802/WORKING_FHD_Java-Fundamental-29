@@ -98,14 +98,16 @@
 - Buổi 23 (08/01): Ngoại lệ.
     - Bài 2.14: Xử lý ngoại lệ.
 - Buổi 24 (13/01): Thao tác với tệp dữ liệu (p1).
-    - Bài 2.15: Xử lý tệp dữ liệu văn bản thô.
+    - Bài 2.16: Xử lý tệp dữ liệu văn bản thô.
 - Buổi 25 (16/01): Thao tác với tệp dữ liệu (p2).
-    - Bài 2.16: Xử lý tệp dữ liệu đối tượng.
+    - Bài 2.17: Xử lý tệp dữ liệu đối tượng.
 - Buổi 26 (20/01): Ôn tập.
     - Bài tập 12 (Web Notion): Máy rút tiền tự động (p1).
 - Buổi 27 (22/01): Ôn tập.
     - Bài tập 12 (Web Notion): Máy rút tiền tự động (p2).
-
+- Buổi 29 (29/01): Tham số kiểu.
+    - Bài 2.18: Lập trình tham số kiểu.
+    - Bài 2.19: Tham số kiểu mở rộng.
 
 ## 4.3. Hệ cơ sở dữ liệu MySQL ([LINK](https://local-tip-3d2.notion.site/3-MySQL-2efe3c27ef3780058ee5e0f49526307e))
 
