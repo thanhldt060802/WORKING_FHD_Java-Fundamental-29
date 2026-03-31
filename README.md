@@ -1,4 +1,4 @@
-<h1 align="center">JAVA-FUNDAMENTAL-29</h1>
+<h1 align="center">JAVA FUNDAMENTAL 29</h1>
 <h3 align="center">(T3, T5 21h)</h3>
 
 # 1. Nội quy
