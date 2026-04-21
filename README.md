@@ -154,6 +154,10 @@
 
 ## 4.4. Tương tác với hệ cơ sở dữ liệu MySQL bằng JDBC ([LINK](https://local-tip-3d2.notion.site/4-MySQL-JDBC-2efe3c27ef3780f78364cc1dca338e48))
 
+- Buổi 45 (21/04): Cơ bản về JDBC.
+    - Bài 4.1: Thực hiện kết nối đến hệ cơ sở dữ liệu MySQL dùng JDBC.
+    - Bài 4.2: Thực hiện CRUD cơ bản.
+
 # 5. Bài tập
 
 - Bài tập trên web FHD ([LINK](https://fullhousedev.com/contest/java29)).
